@@ -40,7 +40,7 @@ In the case of our query regarding the new Christopher Nolan film 'Oppenheimer',
 
   
 
-[Screenshot of Chatbot failure](./assets/readme_images/chat-fail.png)
+![Screenshot of Chatbot failure](./assets/readme_images/chat-fail.png)
 
   
 
@@ -52,7 +52,7 @@ In the case of our query regarding the new Christopher Nolan film 'Oppenheimer',
 
   
 
-[Screenshot of Load Success](./assets/readme_images/chat-success.png)
+![Screenshot of Load Success](./assets/readme_images/chat-success.png)
 
   
 
@@ -64,7 +64,7 @@ In the case of our query regarding the new Christopher Nolan film 'Oppenheimer',
 
   
 
-[Screenshot of Chat Success](./assets/readme_images/chat-success.png)
+![Screenshot of Chat Success](./assets/readme_images/chat-success.png)
 
   
   
